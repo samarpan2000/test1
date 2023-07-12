@@ -199,6 +199,7 @@ text-align: center;
 .container{
     /* display: grid; */
     grid-template-rows: 80px 1fr 60px;
+    background-image: url("images/potrait_bg.jpg");
     /* background-image: url('/images/bg_horror.jpg');
     background-size: cover;
     background-repeat: no-repeat;
