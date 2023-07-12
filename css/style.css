@@ -17,7 +17,7 @@ body{
 .container{
     display: grid;
     grid-template-rows: 1fr 6fr 0.5fr;
-    background-image: url('../images/bg_horror.jpg');
+    background-image: url("images/bg_horror.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -33,11 +33,6 @@ align-items:center;
 .top > .img-logo{
     width: 50px;
     /* background-color:aqua; */
-}
-.nav-bar{
-/* background-color: antiquewhite; */
-/* display: flex;
-justify-content: space-evenly; */
 }
 .nav-bar>a{
     /* background-color: aqua; */
@@ -122,7 +117,7 @@ margin-right: 0;
     /* display: grid; */
     /* grid-template-columns: 1fr; */
     grid-template-rows: 200px 2fr 60px;
-     background-image: url('../images/potrait_bg.jpg');
+     background-image: url("images/potrait_bg.jpg");
     /* background-size: cover; */
     /* background-repeat: no-repeat; */
     /* background-attachment: fixed;  */
@@ -269,7 +264,7 @@ margin-left: 4px;
 .container{
     display: grid;
     grid-template-rows: 100px 2fr 60px;
-    background-image: url('../images/bg_horror.jpg');
+    background-image: url("images/bg_horror.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
